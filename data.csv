@@ -1,1 +1,11 @@
-Hello this is Saif Orakzai(21i-1221)
+CustomerID,FirstName,LastName,Email,Phone,Country,PurchaseAmount,PurchaseDate
+1,John,Doe,johndoe@example.com,555-1234,USA,100.50,2023-01-15
+2,Jane,Smith,janesmith@example.com,555-5678,Canada,250.75,2023-02-20
+3,Michael,Brown,michaelbrown@example.com,555-8765,UK,180.20,2023-03-10
+4,Linda,Johnson,lindajohnson@example.com,555-4321,Australia,95.00,2023-04-05
+5,James,Williams,jameswilliams@example.com,555-3456,USA,300.00,2023-05-18
+6,Patricia,Jones,patriciajones@example.com,555-6543,Canada,120.40,2023-06-22
+7,Robert,Miller,robertmiller@example.com,555-7890,UK,210.60,2023-07-12
+8,Mary,Davis,marydavis@example.com,555-0987,Australia,75.80,2023-08-30
+9,William,Garcia,williamgarcia@example.com,555-5674,USA,110.25,2023-09-15
+10,Barbara,Martinez,barbaramartinez@example.com,555-8761,Canada,225.00,2023-10-25
